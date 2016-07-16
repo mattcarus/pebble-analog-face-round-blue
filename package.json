@@ -1,0 +1,27 @@
+{
+    "author": "Matt Carus",
+    "dependencies": {},
+    "keywords": [],
+    "name": "simple-blue-round-face",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Simple Blue Round Face",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "f1b7329a-74d0-4b61-b9d9-f9f1895beefe",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
